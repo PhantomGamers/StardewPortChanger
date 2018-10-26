@@ -6,5 +6,6 @@
   "PerSaveConfigs": false,
   "MinimumApiVersion": "2.7",
   "UniqueID": "PhantomGamers.ServerPortChanger",
-  "EntryDll": "ServerPortChanger.dll"
+  "EntryDll": "ServerPortChanger.dll",
+  "UpdateKeys": [ "Nexus:2993", "Github:PhantomGamers/StardewPortChanger" ]
 }
